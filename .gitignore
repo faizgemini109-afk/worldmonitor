@@ -4,8 +4,6 @@ dist/
 public/blog/
 .DS_Store
 *.log
-.env
-.env.local
 .playwright-mcp/
 *-network.txt
 .vercel
@@ -83,3 +81,4 @@ tmp/
 docs/plans/
 docs/brainstorms/
 playground-pricing.html
+config.bat
